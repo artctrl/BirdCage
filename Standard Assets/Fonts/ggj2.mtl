@@ -1,0 +1,109 @@
+# Blender MTL File: 'ggj2.blend'
+# Material Count: 10
+newmtl 
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.596494 0.489030
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Will\\Documents\\New Unity Project 1\\Users\\Will\\Desktop\\vamp1.png
+
+
+newmtl Material.001_landscapetlc1.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.085225 0.004346 0.009776
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Will\Documents\New Unity Project 1\Users\Will\Desktop\Current Art\landscapetlc1.jpg
+
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.166328 0.000000 0.002010
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Will\\Documents\\New Unity Project 1\\Users\\Will\\Desktop\\text2.jpg
+
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Will\\Documents\\New Unity Project 1\\Users\\Will\\Desktop\\text2.jpg
+
+
+newmtl Material.006_DSCF541e.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.391173 0.696948 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd DSCF541e.jpg
+
+
+newmtl Material.007_text2.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Will\Documents\New Unity Project 1\Users\Will\Desktop\text2.jpg
+
+
+newmtl Material.008_wood.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Will\Documents\New Unity Project 1\Users\Will\Desktop\wood.jpg
+
+
+newmtl Material.009_DSCF541e.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.128339 0.158346 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd DSCF541e.jpg
+
+
